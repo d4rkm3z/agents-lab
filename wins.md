@@ -1,0 +1,1 @@
+- 2026-10-08 M2: /init в обоих. Claude code сослался на AGENTS.md
